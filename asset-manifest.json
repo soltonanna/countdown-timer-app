@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/countdown-timer-app/static/css/main.83e1a8e9.css",
+    "main.js": "/countdown-timer-app/static/js/main.0f72c7a6.js",
+    "index.html": "/countdown-timer-app/index.html",
+    "main.83e1a8e9.css.map": "/countdown-timer-app/static/css/main.83e1a8e9.css.map",
+    "main.0f72c7a6.js.map": "/countdown-timer-app/static/js/main.0f72c7a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83e1a8e9.css",
+    "static/js/main.0f72c7a6.js"
+  ]
+}
