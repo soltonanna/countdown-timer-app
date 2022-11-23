@@ -14,4 +14,4 @@ npm start
 ```
 
 ## Demo
-<a href="https://soltonanna.github.io/countdown" target="_blank"> Demo </a>
+<a href="https://soltonanna.github.io/countdown-timer-app/" target="_blank"> Demo </a>
